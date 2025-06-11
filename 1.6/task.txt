@@ -1,0 +1,25 @@
+Инструкция по установке Zettlr на Windows, macOS и Linux
+
+Windows
+
+1. Скачать установщик с https://www.zettlr.com/download (Zettlr-X.X.X-win-x64.exe)
+2. Запустить .exe-файл
+3. Установить программу, следуя инструкциям установщика
+4. После установки программа будет доступна в меню "Пуск"
+
+
+macOS
+
+1. Скачать .dmg-файл с https://www.zettlr.com/download
+2. Открыть скачанный файл
+3. Перетащить Zettlr в папку Applications
+4. При первом запуске может потребоваться разрешение в разделе "Системные настройки" — "Защита и безопасность"
+
+
+Linux
+
+1. Открыть командную строку bash
+2. Выполнить команды в bash:
+   sudo add-apt-repository ppa:zettlr/release
+   sudo apt update
+   sudo apt install zettlr
